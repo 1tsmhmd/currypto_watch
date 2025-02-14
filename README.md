@@ -25,14 +25,18 @@ Always up-to-date, accurate, and fast! 🚀
 ✅ **Always** up-to-date with the latest market data
 
 ## ⚡ **Technologies Used**  
-- 🛠 **Programming Language:** Dart  
+- 🌐 **API Integration:** [BabakCode API](https://babakcode.com) for real-time cryptocurrency and currency data  
+- 🛠 **Programming Language:** [Dart](https://dart.dev)  
 - 🤖 **Telegram Bot Framework:** [Televerse](https://pub.dev/packages/televerse)  
-- 🌐 **API Integration:** [BabakCode API](https://babakcode.com/apps/currency) for real-time cryptocurrency and currency data  
+- 🌐 **HTTP Client:** [Dio](https://pub.dev/packages/dio) for API requests  
+- 🔢 **Utility Package:** [persian_number_utility](https://pub.dev/packages/persian_number_utility) for Persian number formatting 
+- 🔐 **Environment Management:** [dotenv](https://pub.dev/packages/dotenv) for managing environment variables 
 
 ## ⚙️ Installation
 ### 🧩 **Prerequisites**  
-- [**Dart SDK**](https://dart.dev/get-dart) installed  
+- [**Dart SDK**](https://dart.dev/get-dart) installed
 - A Telegram bot token from [@BotFather](https://t.me/BotFather)
+- APi KEY: [BabakCode API](https://babakcode.com/apps/currency)
 - A Telegram channel where the bot will send updates (make sure the bot is added as an **admin** to the channel) 
 
 
@@ -70,5 +74,4 @@ Always up-to-date, accurate, and fast! 🚀
 
 
 ## 📞 Contact
-[Telegram](https://itsmhmd)
-
+[![Static Badge](https://img.shields.io/badge/%20%40itsmhmd-0088cc?logo=Telegram&logoColor=white)](https://t.me/itsmhmd)
