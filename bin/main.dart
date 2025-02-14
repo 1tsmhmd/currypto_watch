@@ -1,7 +1,7 @@
 import 'package:currypto_watch/handlers/command_handlers.dart';
 import 'package:currypto_watch/handlers/keybaord_handlers.dart';
 import 'package:currypto_watch/utils/constants.dart';
-import 'package:currypto_watch/utils/functions.dart';
+import 'package:currypto_watch/services/auto_send_service.dart';
 
 /// The main entry point of the application.
 /// This function initializes the bot and sets up all necessary handlers.
