@@ -32,8 +32,7 @@ Always up-to-date, accurate, and fast! 🚀
 ## ⚙️ Installation
 ### 🧩 **Prerequisites**  
 - [**Dart SDK**](https://dart.dev/get-dart) installed  
-- A Telegram bot token from [@BotFather](https://t.me/BotFather)  
-- Required dependencies installed (`Televerse` and others)  
+- A Telegram bot token from [@BotFather](https://t.me/BotFather)
 - A Telegram channel where the bot will send updates (make sure the bot is added as an **admin** to the channel) 
 
 
