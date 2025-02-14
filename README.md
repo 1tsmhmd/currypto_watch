@@ -52,10 +52,10 @@ Always up-to-date, accurate, and fast! 🚀
     cp .env-example .env   # For Linux/macOS
     copy .env-example .env  # For Windows
 
-4. Then, open the .env file and add your Telegram Bot Token:
+4. Then, open the .env file and change the variables:
     ```sh
     TELEGRAM_BOT_TOKEN=your_telegram_bot
-    API_KEY=your_api_key
+    API_KEY=your_babakcode.com_api_key
     TELEGRAM_CHANNEL_USERNAME=your_channel_username
 
 5. Run the bot:
