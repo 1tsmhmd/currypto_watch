@@ -1,5 +1,5 @@
 import 'package:currypto_watch/utils/constants.dart';
-import 'package:currypto_watch/utils/functions.dart';
+import 'package:currypto_watch/services/auto_send_service.dart';
 import 'package:televerse/televerse.dart';
 
 /// This function sets up callback query handlers for the Telegram bot.
