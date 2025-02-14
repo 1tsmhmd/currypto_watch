@@ -6,7 +6,7 @@ import 'package:currypto_watch/services/auto_send_service.dart';
 /// The main entry point of the application.
 /// This function initializes the bot and sets up all necessary handlers.
 void main() async {
-  // Set up command handlers (e.g., for the 'start' command)
+  // Set up command handlers (e.g.: for the 'start' command)
   commandsHandlers();
 
   // Schedule automatic sending of messages (e.g., currency and crypto updates)

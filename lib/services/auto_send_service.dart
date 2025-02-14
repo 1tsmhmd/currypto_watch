@@ -10,7 +10,7 @@ import 'package:persian_number_utility/persian_number_utility.dart';
 
 //! < ------------- Fetch Currency Data ------------- />
 /// This function fetches fiat currency data from the API and returns it in a formatted string.
-/// [hasLink]: If `true`, a link to the Telegram channel will be added to the text.
+/// [hasLink]: If `true`, a link to the telegram channel will be added to the text.
 Future<String> fetchCurrencyData({bool hasLink = true}) async {
   // Fetch currency data from the API
   final res = await DioService().getMethod(
